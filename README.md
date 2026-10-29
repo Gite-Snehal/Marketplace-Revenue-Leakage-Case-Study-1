@@ -1,6 +1,6 @@
 # Marketplace-Revenue-Leakage-Case-Study-1
 
-# Marketplace Revenue Leakage, Customer Economics & Commercial Decision-Making
+### Marketplace Revenue Leakage, Customer Economics & Commercial Decision-Making
 
 ## 1. Project Overview
 
