@@ -60,5 +60,6 @@ This project is for educational and portfolio purposes. The findings are based o
 ---
 
 **Author:** Snehal Gite
+
 **GitHub:** [https://github.com/Gite-Snehal](https://github.com/Gite-Snehal)
 **LinkedIn:** [https://www.linkedin.com/in/snehal-gite-304606445/](https://www.linkedin.com/in/snehal-gite-304606445/)
